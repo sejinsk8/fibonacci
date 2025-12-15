@@ -6,11 +6,11 @@ $assets-path:                       'src/assets' !default;
 
 // Generic Variables.
 // Font families.
-$body-font-family:                  'Source Serif Pro', Georgia, serif !default;
+$body-font-family:                  'Helvetica-light', sans-serif !default;
 $heading-font-family:               'Patua One', 'Times New Roman', cursive !default;
 $small-text-font-family:            'Signika Negative', Arial, Tahoma, sans-serif !default;
 $mono-font-family:                  'JetBrains Mono', Courier, monospace !default;
-$logo-font-family:                  'Amatic SC', 'Brush Script MT', cursive !default;
+$logo-font-family:                  'Times New Roman bold' !default;
 
 // Colors.
 // Global.
@@ -18,7 +18,7 @@ $white:                             rgb(255, 255, 255) !default;
 $black:                             rgb(0, 0, 0) !default;
 
 // Brand Colors.
-$brand-color:                       rgb(240, 72, 117) !default;
+$brand-color:                       rgb(207, 77, 68) !default;
 $brand-bg:                          rgb(75, 85, 94) !default;
 $brand-gray:                        rgb(201, 195, 198) !default;
 
